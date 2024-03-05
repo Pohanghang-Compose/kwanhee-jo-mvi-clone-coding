@@ -15,3 +15,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "MviCloneCode"
 include(":app")
+include(":data")
+include(":domain")
